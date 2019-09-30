@@ -7,7 +7,7 @@ A small database with functions:
   search with SQL key words: SELECT, FROM, WHERE, ORDER BY, GROUP BY.  
   
 Time Complexity:  
-  create a database: O(1)  
+&emsp;create a database: O(1)  
   create tables: O(n) and n = number of attributes in this table.  
   insert rows into tables: O(n) and n = number of attributes in this insert operation.  
   search with SQL key words SELECT, FROM: O(mn) and  
