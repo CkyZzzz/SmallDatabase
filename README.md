@@ -39,6 +39,9 @@ Output and Test:
 The two tables shown below are tables that added into the database in Test.java and also input by hand.
 ![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/tables.png)
   
-Output through adding those tables and query by hand in console:  
+Output through adding those tables and quering by hand in console(You can do it in ExternalAPI.java):  
 ![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/console_output_1.png)  
 ![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/console_output_2.png)
+  
+Output through Test.java:  
+![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/console_output_3.png)
