@@ -1,10 +1,10 @@
 # SmallDatabase
 Small Database in Java  
 A small database with functions:  
-  create a database  
-  create tables  
-  insert rows into tables  
-  search with SQL key words: SELECT, FROM, WHERE, ORDER BY, GROUP BY.  
+&emsp;Create a database  
+&emsp;Create tables  
+&emsp;Insert rows into tables  
+&emsp;Search with SQL key words: SELECT, FROM, WHERE, ORDER BY, GROUP BY.  
   
 Time Complexity:  
 &emsp;create a database: O(1)  
