@@ -13,7 +13,7 @@ public class Column<T> {
         this.values = new ArrayList<>();
     }
     public boolean add(String value) {
-        if (value.equals("null") || value == null) {
+        if (value == null || value.equals("null")) {
             values.add(null);
             return true;
         }
