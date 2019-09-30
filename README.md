@@ -35,4 +35,8 @@ Time Complexity:
 &emsp;&emsp;&emsp;&emsp;m = the number of attributes in SELECT statement,  
 &emsp;&emsp;&emsp;&emsp;n = the number of rest rows filtered by WHERE statement and GROUP BY statement.  
   
+Output and Test:
+The two tables shown below are tables that added into the database in Test.java and also in input by hand.
+![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/tables.png)
+  
 ![image](https://github.com/CkyZzzz/SmallDatabase/blob/master/images/console_output_1.png)
